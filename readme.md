@@ -21,7 +21,7 @@ This setup is for those that wish to develop CVBIA. All other users should acces
     ```bash
     git clone git@github.com:godatadriven/cvbia.git
     cd cvbia
-    python -m virtualenv .venv
+    python -m venv .venv
     source .venv/bin/activate
     pip install -r requirements.txt
     pre-commit install
