@@ -9,9 +9,6 @@
 
 Create CVs in PDF and PPT formats from YAML input.
 
-It's also hosted on streamlit at:
-https://cv-bia.streamlit.app/
-
 ## Development Setup
 
 This setup is for those that wish to develop CVBIA. All other users should access the [webapp](https://cv-bia.streamlit.app/).
