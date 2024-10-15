@@ -11,7 +11,7 @@ Create CVs in PDF and PPT formats from YAML input.
 
 ## Development Setup
 
-This setup is for those that wish to develop CVBIA. All other users should access the [webapp](https://cv-bia.streamlit.app/).
+This setup is for those that wish to develop CVBIA.
 
 1. Clone this repo to your machine and setup your local virtual environment:
 
