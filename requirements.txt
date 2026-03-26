@@ -1,7 +1,7 @@
 black==24.10.0
 pyyaml==6.0.2
 reportlab<4.0.0
-streamlit==1.39.0
+streamlit==1.54.0
 streamlit-cropper==0.2.2
 pre-commit
 pypdf<5
